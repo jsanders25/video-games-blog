@@ -6,7 +6,7 @@ author: Jakson Sanders
 ---
 # League of Legends
 
-![League of Legends](./src/images/lol_logo.jpg)
+![League of Legends](https://pentagram-production.imgix.net/02b1692f-0938-4f33-8935-89aebccc7c61/LOL_Logo_Rendered_Hi-Res_onblue-4x3.jpg?crop=edges&fit=crop&h=630&rect=0%2C264%2C3754%2C2342&w=1200)
 
 League of Legends, commonly referred to as LoL, is a household name in the world of online gaming. Since its launch in 2009, it has grown into one of the most popular and influential video games globally, captivating millions of players and spectators with its fast-paced action, strategic depth, and ever-expanding universe. In this blog post, we'll explore what makes League of Legends so enduringly popular and how it continues to evolve.
 

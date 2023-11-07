@@ -6,7 +6,7 @@ author: Jakson Sanders
 ---
 # Nier: Automata
 
-![Nier Automata](./src/images/nier_logo.jpg)
+![Nier Automata](https://upload.wikimedia.org/wikipedia/fr/2/2e/Nier_Automata_Logo.jpg)
 
 Nier Automata, a masterpiece crafted by Yoko Taro and PlatinumGames, stands as a testament to the potential of storytelling and gameplay in the realm of action RPGs. Since its release, this game has enchanted players with its emotional depth, thought-provoking narrative, and innovative gameplay mechanics. Let's delve into what makes Nier Automata a captivating and unique experience in the gaming world.
 

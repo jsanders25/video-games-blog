@@ -6,7 +6,7 @@ author: Jakson Sanders
 ---
 # Guilty Gear: Strive
 
-![Guilty Gear Strive](./src/images/ggs_logo.jpg)
+![Guilty Gear Strive](https://www.fightersgeneration.com/nf8/game3/guiltygearstrive-logo.jpg)
 
 Guilty Gear Strive, a title that resonates with the fervor of fighting game enthusiasts, has etched its place as a pinnacle of intense and visually stunning gaming experiences. Developed by Arc System Works, this fighting game series has recently received a thunderous iteration, captivating both seasoned veterans and newcomers alike. Let's delve into what makes Guilty Gear Strive a captivating force in the world of fighting games.
 
